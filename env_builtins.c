@@ -8,7 +8,7 @@ int shellby_unsetenv(char **args, char __attribute__((__unused__)) **front);
  * shellby_env - Prints the current environment.
  * @args: An array of arguments passed to the shell.
  * @front: A double pointer to the beginning of args.
- *
+ * by @rafmury and @ridhwan497
  * Return: If an error occurs - -1.
  *	   Otherwise - 0.
  *
