@@ -10,7 +10,7 @@ int check_args(char **args);
  * get_args - Gets a command from standard input.
  * @line: A buffer to store the command.
  * @exe_ret: The return value of the last executed command.
- *
+ * by @rafmury and @ridhwan497
  * Return: If an error occurs - NULL.
  *         Otherwise - a pointer to the stored command.
  */
