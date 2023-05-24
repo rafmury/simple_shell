@@ -9,7 +9,7 @@ char **_strtok(char *line, char *delim);
  *             of the first token contained within a string.
  * @str: The string to be searched.
  * @delim: The delimiter character.
- *
+ * by @rafmury and @ridhwan497
  * Return: The delimiter index marking the end of
  *         the intitial token pointed to be str.
  */
