@@ -8,7 +8,7 @@ void logical_ops(char *line, ssize_t *new_len);
  * handle_line - Partitions a line read from standard input as needed.
  * @line: A pointer to a line read from standard input.
  * @read: The length of line.
- *
+ * by @rafmury and @ridhwan497
  * Description: Spaces are inserted to separate ";", "||", and "&&".
  *              Replaces "#" with '\0'.
  */
